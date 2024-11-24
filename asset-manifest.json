@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dazyners_Academy/static/css/main.e6c13ad2.css",
+    "main.js": "/Dazyners_Academy/static/js/main.d6af7a31.js",
+    "static/js/453.0437a03d.chunk.js": "/Dazyners_Academy/static/js/453.0437a03d.chunk.js",
+    "index.html": "/Dazyners_Academy/index.html",
+    "main.e6c13ad2.css.map": "/Dazyners_Academy/static/css/main.e6c13ad2.css.map",
+    "main.d6af7a31.js.map": "/Dazyners_Academy/static/js/main.d6af7a31.js.map",
+    "453.0437a03d.chunk.js.map": "/Dazyners_Academy/static/js/453.0437a03d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d6af7a31.js"
+  ]
+}
